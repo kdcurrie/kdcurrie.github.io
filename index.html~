@@ -7,6 +7,15 @@
 
 <body>
     <p>Hi! My name is Keaton! </p?
+    <img src="doge.jpg" width="100px">
+
+    <p><b>henlo :)</b>.</p>
+    <a href="https://www.usfca.edu">USF Webpage</a>
+
+    <ol>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
 
 </body>
 </html>
